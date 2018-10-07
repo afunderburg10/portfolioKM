@@ -1,0 +1,10 @@
+header nav {
+    background-color: black;
+}
+
+header li {
+    font-weight: bold;
+}
+header li a {
+    color: white;
+}
