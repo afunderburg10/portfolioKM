@@ -2,4 +2,4 @@
 git tag -a <tag name> -m "<Information about the tag here>"
 
 // Run this CLI command
-aws s3 sync .\dst s3://funderburgsite1 --delete --acl public-read
+aws s3 sync .\dst s3://kmportfolio --delete
